@@ -1,0 +1,6 @@
+{
+  "name": "Hide Frequent View",
+  "description": "Remove the controls to switch between frequent and all apps view in overview",
+  "uuid": "hide-frequent-view@birros.github.com",
+  "shell-version": ["3.26.2"]
+}
