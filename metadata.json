@@ -4,8 +4,6 @@
   "description": "Hide controls to switch from the frequent view to the view of all applications in the GNOME Shell overview",
   "url": "https://github.com/birros/gnome-shell-extension-hide-frequent-view",
   "shell-version": [
-    "3.18",
-    "3.20",
     "3.22",
     "3.24",
     "3.26"
