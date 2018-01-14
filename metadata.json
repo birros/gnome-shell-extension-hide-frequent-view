@@ -1,6 +1,13 @@
 {
+  "uuid": "hide-frequent-view@birros.github.com",
   "name": "Hide Frequent View",
   "description": "Remove the controls to switch between frequent and all apps view in overview",
-  "uuid": "hide-frequent-view@birros.github.com",
-  "shell-version": ["3.26.2"]
+  "url": "https://github.com/birros/gnome-shell-extension-hide-frequent-view",
+  "shell-version": [
+    "3.18",
+    "3.20",
+    "3.22",
+    "3.24",
+    "3.26"
+  ]
 }
