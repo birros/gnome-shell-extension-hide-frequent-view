@@ -2,7 +2,7 @@
 
 Hide controls to switch from the frequent view to the view of all applications in the GNOME Shell overview.
 
-![](data/screenshot.gif)
+![](data/screenshot.gif?raw=true)
 
 ## Installation
 
@@ -20,4 +20,4 @@ Follow these instructions :
 
 <!-- External links and references -->
 
-[Hide Frequent View]: foo
+<!-- [Hide Frequent View]: foo -->
