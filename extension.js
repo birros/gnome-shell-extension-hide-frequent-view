@@ -5,7 +5,7 @@ function get_current_view_index () {
   let views = Main.overview.viewSelector.appDisplay._views;
   for (let i = 0; i < views.length; i++) {
     let pseudo_class = views[i].control.get_style_pseudo_class();
-    if (pseudo_class.indexOf("checked") !== -1) {
+    if (pseudo_class && pseudo_class.indexOf("checked") !== -1) {
       current_view_index = i;
     }
   }
